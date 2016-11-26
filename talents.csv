@@ -1,0 +1,193 @@
+id,nom,description
+0,Aucun,Talent inexistant.
+1,Absent«±isme,Le Pok«±mon n'attaque qu'un tour sur deux.
+2,Absorb Eau,Les attaques de type Eau re«®ues par le Pok«±mon r«±g«±n«²rent 1/4 de ses PV.
+3,Absorb Volt,Les attaques de type ª±lectrik re«®ues par le Pok«±mon r«±g«±n«²rent 1/4 de ses PV.
+4,Agitation,Augmente l'attaque de 50% mais baisse la pr«±cision de 20%.
+5,Air Lock,Annule les effets du climat.
+6,Anti-Bruit,Annule les effets dus «¢ une attaque sonore.
+7,Armumagma,Immunise contre le gel.
+8,Armurbaston,Annule les chances de coups critiques du Pok«±mon ennemi.
+9,Attention,Immunise contre la peur.
+10,Ben«´t,Immunise contre le charme et la provocation.
+11,Brasier,Augmente la puissance des attaques de type Feu de 50% lorsque le Pok«±mon a moins d'1/3 de ses PV totaux.
+12,Calque,Copie le talent du Pok«±mon adverse.
+13,Chlorophylle,Augmente la vitesse au soleil.
+14,Ciel Gris,Annule les effets du climat.
+15,Coloforce,Double l'attaque du Pok«±mon.
+16,Coque Armure,Annule les chances de coups critiques du Pok«±mon ennemi.
+17,Corps Ardent,30% de chance de provoquer une br«ålure sur le Pok«±mon adverse ayant attaqu«±.
+18,Corps Sain,Emp«´che la diminution de statistiques par le Pok«±mon adverse.
+19,Crachin,Fait tomber la pluie lorsque le Pok«±mon est envoy«± au combat.
+20,Cran,Augmente de 50% l'attaque du Pok«±mon s'il subit un changement de statut.
+21,Cuvette,R«±g«±n«²re 1/16«²me des PV par temps de pluie.
+22,D«±guisement,Change le type du Pok«±mon en celui de la derni«²re attaque subie.
+23,ª±caille Sp«±ciale,Augmente la d«±fense de 50% lorsque le Pok«±mon subit un changement de statut.
+24,ª±chauffement,Immunise contre la paralysie.
+25,ª±cran Fum«±e,Emp«´che la diminution de statistiques par le Pok«±mon adverse.
+26,ª±cran Poudre,Emp«´che les effets secondaires des attaques subies.
+27,Engrais,Augmente la puissance des attaques de type Plante de 50% lorsque le Pok«±mon a moins d'1/3 de ses PV totaux.
+28,Esprit Vital,Emp«´che le Pok«±mon d'«´tre endormi.
+29,Essaim,Augmente la puissance des attaques de type Insecte de 50% lorsque le Pok«±mon a moins d'1/3 de ses PV totaux.
+30,Fermet«±,Immunise contre les attaques OHKO et fait conserver 1 PV au Pok«±mon m«´me apr«²s une attaque qui aurait du le terrasser s¡Çil a tous ses PV.
+31,Force Pure,Double l'attaque du Pok«±mon.
+32,Fuite,Assure la fuite contre les Pok«±mon sauvages.
+33,Garde Mystik,Ne subit que les d«±g«¤ts d'attaques super efficaces.
+34,Glissade,Double la vitesse par temps de pluie.
+35,Glue,Emp«´che la perte de l'objet tenu.
+36,Hyper Cutter,Emp«´che la diminution d'attaque du Pok«±mon.
+37,Ignifu-Voile,Immunise contre la br«ålure.
+38,Insomnia,Emp«´che le Pok«±mon d'«´tre endormi.
+39,Intimidation,Diminue d'un niveau l'attaque du Pok«±mon adverse.
+40,Isograisse,Les d«±g«¤ts provoqu«±s par les attaques des types Feu ou Glace sont divis«±s par 2.
+41,Joli Sourire,A 30% de chance de provoquer l'attirance du Pok«±mon adverse ayant attaqu«±.
+42,L«±vitation,Immunise contre les attaques de type Sol.
+43,Lumiattirance,Augmente les chances de rencontrer des Pok«±mon sauvages.
+44,Magn«±pi«²ge,Emp«´che la fuite et le changement des Pok«±mon de type Acier.
+45,Marque Ombre,Emp«´che la fuite des Pok«±mon sauvage et le changement du Pok«±mon adverse.
+46,Matinal,R«±duit le nombre de tours de sommeil du Pok«±mon.
+47,M«±dic Nature,Le Pok«±mon est soign«± de toute alt«±ration d'«±tat lorsqu'il est chang«± ou en fin de combat.
+48,M«±t«±o,Change le type et la forme du Pok«±mon selon le climat.
+49,Minus,Augmente l'attaque sp«±ciale de 50% en combat double ou triple si un partenaire a le talent Plus.
+50,Moiteur,ª±mp«´che l'utilisation d'attaques auto-destructrices par le Pok«±mon adverse.
+51,Mue,ª¢ chaque tour le Pok«±mon a 33% de chance d'«´tre soign«± d'une alt«±ration d'«±tat.
+52,Oeil Compos«±,Double la pr«±cision du Pok«±mon.
+53,Paratonnerre,Attire toutes les attaques de type ª±lectrik et augmente l'attaque sp«±ciale du Pok«±mon recevant l'attaque.
+54,Peau Dure,Fait perdre 1/16«² des PV du Pok«±mon adverse ayant lanc«± une attaque de contact.
+55,Pi«²ge,Emp«´che la fuite et le changement du Pok«±mon adverse s'il est au sol.
+56,Plus,Augmente l'attaque sp«±ciale de 50% en combat double ou triple si un partenaire a le talent Minus.
+57,Point Poison,30% de chance de provoquer l'empoisonnement du Pok«±mon adverse ayant lanc«± une attaque de contact.
+58,Pose Spore,30% de chance de provoquer l'empoisonnement le sommeil ou la paralysie du Pok«±mon adverse ayant lanc«± une attaque de contact.
+59,Pression,Double l'utilisation de PP des attaques offensives du Pok«±mon adverse.
+60,Puanteur,Les attaques physiques ont 10% d'apeurer la cible.
+61,Ramassage,Donne une chance au Pok«±mon de ramasser un objet apr«²s un combat.
+62,Regard Vif,Emp«´che la perte de pr«±cision.
+63,Sable Volant,D«±clenche une temp«´te de sable lorsque le Pok«±mon est envoy«± au combat.
+64,S«±cheresse,Cr«±e un temps ensoleill«± lorsque le Pok«±mon est envoy«± au combat.
+65,S«±r«±nit«±,Double les chances de r«±ussite des effets secondaires des attaques.
+66,Statik,30% de chance de provoquer la paralysie du Pok«±mon adverse ayant lanc«± une attaque de contact.
+67,Suintement,Les attaques absorbantes du Pok«±mon adverse lui font perdre des PV.
+68,Synchro,Toute alt«±ration d'«±tat subie est transmise au Pok«±mon adverse.
+69,Tempo Perso,Immunise contre la confusion.
+70,T«´te de Roc,Le Pok«±mon ne subit pas de d«±g«¤ts de contrecoup.
+71,Torche,Annule les d«±g«¤ts des attaques de type Feu subies et augmente de 50% la puissance des attaques de type Feu lanc«±es.
+72,Torrent,Augmente la puissance des attaques de type Eau de 50% lorsque le Pok«±mon a moins d'1/3 de ses PV totaux.
+73,Turbo,La vitesse du Pok«±mon augmente ª± chaque tour.
+74,Vaccin,Immunise contre l'empoisonnement.
+75,Ventouse,Emp«´che d'«´tre chang«± de force par une attaque adverse.
+76,Voile Sable,Augmente l'esquive de 20% lors d'une temp«´te de sable et immunise contre ses d«±g«¤ts.
+77,Adaptabilit«±,Si ce Pok«±mon utilise une attaque de son type la puissance de l'attaque est multipli«±e par 2 au lieu de 1.5.
+78,Alerte Neige,Le Pok«±mon d«±clenche une gr«´le lorsqu'il est envoy«± au combat.
+79,Annule Garde,Toutes les attaques du Pok«±mon et de son adversaire ont une pr«±cision de 100%.
+80,Anticipation,Alerte et prot«²ge lorsque le Pok«±mon adverse poss«²de certaines attaques.
+81,Boom Final,Enl«²ve 1/4 des PV totaux du Pok«±mon ennemi mettant K.O. par contact.
+82,Brise Moule,Peut toucher un Pok«±mon adverse malgr«± son talent.
+83,Chanceux,Double les chance de porter un coup critique.
+84,Cherche Miel,Le Pok«±mon peut trouver du Miel apr«²s un combat.
+85,Col«±rique,L'attaque du Pok«±mon est fortement augment«±e lorsqu'il subit un coup critique.
+86,Corps Gel,R«±g«±n«²re 1/16«²me des PV par temps de gr«´le. Immunise les Pok«±mon n'ayant pas le type Glace contre la gr«´le.
+87,D«±but Calme,Divise par deux l'attaque et la vitesse du Pok«±mon pendant 5 tours.
+88,D«±lestage,Augmente la vitesse lorsqu'un objet tenu est utilis«± lanc«± ou perdu.
+89,Don Floral,Augmente l'attaque et la d«±fense sp«±ciale de 50% par temps ensoleill«±.
+90,Feuille Garde,Soigne les alt«±rations d'«±tat par temps ensoleill«±.
+91,Filtre,Retire 1/4 des d«±g«¤ts subits lors d'une attaque super efficace.
+92,Force Soleil,Augmente l'attaque sp«±ciale de 50% par temps ensoleill«± mais diminue les PV de 1/8«²me par tour.
+93,Fouille,Permet de connaitre l'objet tenu d'un Pok«±mon adverse.
+94,Frein,Le Pok«±mon attaque toujours en second pour deux attaques de m«´me priorit«±.
+95,Garde Magik,Le Pok«±mon ne subit de d«±g«¤ts que lors d'attaques directes.
+96,Gloutonnerie,Le Pok«±mon utilise la baie port«±e lorsque les PV descendent en dessous de 50%.
+97,Hydratation,Soigne les alt«±rations d'«±tat par temps de pluie.
+98,Ignifuge,Divise par 2 les d«±g«¤ts des attaques de type Feu et les effets de br«ålure subis par le Pok«±mon.
+99,Impassible,Augmente d'un niveau la vitesse du Pok«±mon lorsqu'il est apeur«±.
+100,Inconscient,Ignore les am«±liorations de statistiques du Pok«±mon adverse «¢ l'exception de sa Vitesse.
+101,Lavabo,Attire toutes les attaques de type Eau et augmente l'attaque sp«±ciale du Pok«±mon recevant l'attaque.
+102,Lentiteint«±e,Double les d«±g«¤ts des attaques peu efficaces port«±es au Pok«±mon adverse.
+103,Maladresse,Emp«´che l'utilisation et/ou ignore l'effet des objets tenus en combat.
+104,Mauvais R«´ve,Fait perdre 1/8«²me de ses PV au Pok«±mon adverse s'il est endormi.
+105,Motoris«±,Immunise le Pok«±mon contre les attaques de type ª±lectrik et augmente la vitesse du Pok«±mon d'un niveau par attaque ª±lectrik subie.
+106,Multi-Coups,Utilise toujours le nombre de coups maximum d'une attaque.
+107,Multitype,Le type et la forme du Pok«±mon changent en fonction de la plaque qu'il porte.
+108,Normalise,Toutes les attaques du Pok«±mon sont consid«±r«±es comme «±tant de type Normal.
+109,Peau S«²che,Les attaques de type Eau soignent le Pok«±mon qui regagne 1/4 de ses PV totaux. Par temps de pluie il gagne 1/8«²me de ses PV par tour.Les attaques de type Feu infligent 25% de d«±g«¤ts en plus. Par temps ensoleill«± il perd 1/8«²me de ses PV par tour.
+110,Pied Confus,Augmente l'esquive de 20% lorsque le Pok«±mon est confus.
+111,Pied V«±loce,Augmente la vitesse de 50% lorsque le Pok«±mon subit une alt«±ration d'«±tat.
+112,Poing de Fer,"Augmente de 20% la puissance des attaques de ""Poing""."
+113,Pr«±diction,Alerte le Pok«±mon de l'attaque la plus puissante du Pok«±mon adverse.
+114,Querelleur,Permet de toucher les Pok«±mon de type Spectre avec des attaques de type Normal ou Combat.
+115,Rideau Neige,Augmente l'esquive de 20% par temps de gr«´le. Immunise les Pok«±mon n'ayant pas le type Glace contre la gr«´le.
+116,Rivalit«±,Augmente l'attaque et l'attaque sp«±ciale de 25% si le Pok«±mon adverse est de m«´me sexe. Les diminue s'il est de sexe oppos«±.
+117,Simple,Double les effets des modifications de statistiques positives ou n«±gatives.
+118,Sniper,Triple la puissance des coups critiques.
+119,Soin Poison,Le Pok«±mon r«±cup«²re 1/8«² de ses PV par tour lors d'un empoisonnement.
+120,Solide Roc,Retire 1/4 des d«±g«¤ts subits si le Pok«±mon re«®oit une attaque super efficace.
+121,Technicien,Augmente de 50% la puissance des attaques dont la puissance est inf«±rieure ou «±gale «¢ 60.
+122,T«±l«±charge,Augmente l'attaque ou l'attaque sp«±ciale du Pok«±mon selon la statistique de d«±fense la plus faible du Pok«±mon adverse.
+123,T«±m«±raire,Augmente de 20% la puissance des attaques infligeant des d«±g«¤ts de recul.
+124,Acharn«±,Monte l'Attaque du Pok«±mon de deux niveau si l'une de ses statistiques est baiss«±e par l'adversaire.
+125,Analyste,Si le Pok«±mon frappe en dernier durant le tour la puissance de son attaque est augment«±e de 30%.
+126,Armurouill«±e,Le Pok«±mon touch«± par une attaque physique voit sa d«±fense diminuer d'un niveau et sa vitesse augmenter d'un niveau.
+127,Baigne Sable,Statistiques : Double la Vitesse du Pok«±mon lors d'une temp«´te de sable. Immunise contre les d«±g«¤ts de la temp«´te.
+128,Coeur de Coq,Emp«´che la d«±fense du Pok«±mon d'«´tre baiss«±e par les attaques adverses.
+129,Coeur Noble,Si le Pok«±mon est touch«± par une attaque de type T«±n«²bres son attaque augmente d'un niveau.
+130,Coeur Soin,ª¢ la fin de chaque tour le Pok«±mon a 30% de chance de gu«±rir ses alli«±s d'une alt«±ration d'«±tat en combat double ou triple.
+131,Contestation,Inverse les effets des attaques modifiant les statistiques.
+132,Corps Maudit,Toute attaque port«±e par l'adversaire a 30% de chance de s'entraver.
+133,D«±faitiste,Divise par deux l'attaque et l'attaque sp«±ciale du Pok«±mon s'il a moins de la moiti«± de ses PV totaux.
+134,Envelocape,Immunise contre les d«±g«¤ts caus«±s par la gr«´le et les temp«´tes de sable.
+135,ª±pine de Fer,Retire 1/8«²me de ses PV «¢ l'adversaire lorsque celui-ci porte une attaque physique.
+136,Farceur,Augmente la priorit«± des attaques de statut d'un niveau.
+137,Force Sable,Lors d'une temp«´te de sable la puissance des attaques de type Acier Roche et Sol augmente de 30 %.
+138,Garde Amie,R«±duire de 25% les d«±g«¤ts inflig«±s aux alli«±s en combat double ou triple.
+139,Heavy Metal,Double la masse du Pok«±mon.
+140,Herbivore,Si le Pok«±mon est touch«± par une attaque de type Plante son attaque augmente d'un niveau.
+141,Illusion,Lorsqu'il entre en combat le Pok«±mon prend l'apparence du dernier Pok«±mon de l'«±quipe.
+142,Imposteur,Le Pok«±mon entrant en combat prend automatiquement l'apparence du Pok«±mon adverse.
+143,Impudence,Monte l'attaque du Pok«±mon d'un niveau lorsqu'il met un adversaire K.O.
+144,Infiltration,Emp«´che les attaques de protection adverses tels que Protection ou Mur Lumi«²re de fonctionner. N'influe pas sur D«±tection et Abri.
+145,Light Metal,Divise par deux la masse du Pok«±mon.
+146,Lunatique,Al«±atoirement «¢ la fin de chaque tour une statistique du Pok«±mon augmente de deux niveaux et une autre baisse d'un niveau (pr«±cision et esquive comprises).
+147,Miroir Magik,Retourne les attaques de statut contre l'adversaire.
+148,Mode Transe,Le Pok«±mon change de forme et modifie la r«±partition de ses statistiques lorsque ses PV sont inf«±rieurs «¢ 50%.
+149,Momie,Si le Pok«±mon subit une attaque de contact le talent de l'adversaire devient Momie. Ce talent est sans effet en lui-m«´me.
+150,Multi«±caille,Si le Pok«±mon poss«²de 100% de ses PV alors les d«±g«¤ts inflig«±s par l'adversaire sont divis«±s par deux.
+151,Peau Miracle,50% de chance de faire «±chouer les attaques de statut port«±es par l'adversaire.
+152,Phobique,Si le Pok«±mon est touch«± par une attaque de type Insecte Spectre ou T«±n«²bres sa vitesse augmente d'un niveau.
+153,Pickpocket,Si le Pok«±mon subit une attaque physique il r«±cup«²re l'objet tenu par son adversaire.
+154,Rage Br«ålure,Augmente l'attaque sp«±ciale du Pok«±mon de 50% en cas de br«ålure.
+155,Rage Poison,Augmente l'attaque du Pok«±mon de 50% en cas d'empoisonnement.
+156,R«±colte,Une baie consomm«±e par le Pok«±mon a 50% de chances d'«´tre r«±cup«±r«±e «¢ la fin de chaque tour.
+157,R«±g«±-Force,Restaure 1/3 des PV totaux si le Pok«±mon est retir«± du combat.
+158,Sans Limite,Augmente de 30% la puissance des attaques pouvant avoir un effet secondaire. L'effet secondaire est annul«±.
+159,T«±l«±pathe,Anticipe et «±vite les attaques des alli«±s en combat double ou triple.
+160,Tension,Emp«´che l'adversaire de consommer sa baie.
+161,T«±ra-Voltage,Peut toucher un Pok«±mon adverse malgr«± son talent. 
+162,Toxitouche,Peut empoisonner l'adversaire apr«²s lui avoir port«± une attaque physique.
+163,TurboBrasier,Peut toucher un Pok«±mon adverse malgr«± son talent.
+164,Victorieux,Monte de 10% la pr«±cision des alli«±s en combat double ou triple.
+165,Ailes Bourrasque,Augmente la priorit«± des capacit«±s de type Vol.
+166,Amour Filial,Permet au lanceur de porter deux coups par tour au lieu d'un le deuxi«²me coup fera deux fois moins de d«±g«¤ts que le premier.
+167,Aroma-Voile,Prot«²ge les Pok«±mon alli«±s des capacit«±s ayant un effet sur l'«±tat mental tels que Attraction ou Tourmente.
+168,Aura F«±«±rique,Augmente la puissance des attaques de type F«±e des Pok«±mon pr«±sents sur le terrain.
+169,Aura Invers«±e,Inverse les effets des talents Aura.
+170,Aura T«±n«±breuse,Augmente la puissance des attaques de type T«±n«²bres des Pok«±mon pr«±sents sur le terrain.
+171,Bajoues,Lorsque le Pok«±mon mange une Baie il obtient ses effets et regagne des PV en plus.
+172,Battant,Augmente l'Attaque Sp«±ciale par deux niveaux lorsque n'importe quelle stat est baiss«±e par un Pok«±mon adverse.
+173,D«±clic Tactique,Change la forme du Pok«±mon selon le combat.
+174,Flora-Voile,Emp«´che la diminution des statistiques des alli«±s de type Plante par les Pok«±mon adverses.
+175,Gluco-Voile,Emp«´che les Pok«±mon alli«±s de s'endormir.
+176,Griffe Dure,Augmente d'un tiers la puissance des attaques directes.
+177,Magicien,Vole l'objet d'une cible apr«²s l'avoir touch«± avec une attaque directe.
+178,M«±ga Blaster,Un Pok«±mon dot«± de ce talent verra la puissance de ses capacit«±s d'aura augment«±e.
+179,Mer Primaire,Fait tomber une pluie ne pouvant «´tre annul«±e par capacit«± ou talent tant que le Pok«±mon est en jeu. Annule toutes les capacit«±s de type Feu.
+180,Pare-Balles,Prot«²ge contre les capacit«±s balles et bombes par exemple Balle Graine ou Canon Graine.
+181,Peau C«±leste,Transforme les capacit«±s de type Normal en type Vol.
+182,Peau F«±«±rique,Transforme les capacit«±s de type Normal en type F«±e.
+183,Peau Gel«±e,Transforme les capacit«±s de type Normal en type Glace.
+184,Poisseux,Baisse la Vitesse des Pok«±mon qui touchent ce Pok«±mon avec une attaque directe.
+185,Prognathe,Augmente la puissance des attaques «¢ base de morsures.
+186,Prot«±en,Change le type du Pok«±mon en celui de toute capacit«± qu'il utilise.
+187,Souffle Delta,Annule tout effet de climat m«´me Mer Primaire et Terre Finale. Annule les faiblesses du type Vol.
+188,Symbiose,Passe un objet tenu «¢ un Pok«±mon alli«± lorsque l'alli«± utilise son objet.
+189,Terre Finale,Cr«±e un temps ensoleill«± ne pouvant «´tre annul«± par capacit«± ou talent tant que le Pok«±mon est en jeu. Annule toutes les capacit«±s de type Eau.
+190,Toison ª±paisse,Divise par deux les d«±g«¤ts re«®us lors d'une attaque physique.
+191,Toison Herbue,Augmente la D«±fense lorsque Champ Herbu est en vigueur.
