@@ -1,22 +1,22 @@
-id_b«±b«±,id_evol,condition
+id_bÃ©bÃ©,id_evol,condition
 0,1,Niveau 16
 1,2,Niveau 32
-2,3,M«±ga-gemme
+2,3,MÃ©ga-gemme
 4,5,Niveau 16
 5,6,Niveau 36
-6,7,M«±ga-gemme
-6,8,M«±ga-gemme
+6,7,MÃ©ga-gemme
+6,8,MÃ©ga-gemme
 9,10,Niveau 16
 10,11,Niveau 36
-11,12,M«±ga-gemme
+11,12,MÃ©ga-gemme
 13,14,Niveau 7
 14,15,Niveau 10
 16,17,Niveau 7
 17,18,Niveau 10
-18,19,M«±ga-gemme
+18,19,MÃ©ga-gemme
 20,21,Niveau 18
 21,22,Niveau 36
-22,23,M«±ga-gemme
+22,23,MÃ©ga-gemme
 24,25,Niveau 20
 26,27,Niveau 20
 28,29,Niveau 22
@@ -46,81 +46,81 @@ id_b«±b«±,id_evol,condition
 63,64,Pierre Feu
 65,66,Niveau 25
 66,67,Pierre Eau
-66,201,ª±change en tenant Roche Royale
+66,201,Ã‰change en tenant Roche Royale
 68,69,Niveau 16
-69,70,ª±change
-70,71,M«±ga-gemme
+69,70,Ã‰change
+70,71,MÃ©ga-gemme
 72,73,Niveau 28
-73,74,ª±change
+73,74,Ã‰change
 75,76,Niveau 21
 76,77,Pierre Plante
 78,79,Niveau 30
 80,81,Niveau 25
-81,82,ª±change
+81,82,Ã‰change
 83,84,Niveau 40
 85,86,Niveau 37
-85,214,ª±change en tenant Roche Royale
-86,87,M«±ga-gemme
+85,214,Ã‰change en tenant Roche Royale
+86,87,MÃ©ga-gemme
 88,89,Niveau 30
-89,516,Gain de niveau dans un lieu sp«±cial
+89,516,Gain de niveau dans un lieu spÃ©cial
 91,92,Niveau 31
 93,94,Niveau 34
 95,96,Niveau 38
 97,98,Pierre Eau
 99,100,Niveau 25
-100,101,ª±change
-101,102,M«±ga-gemme
-103,223,ª±change en tenant Peau M«±tal
-223,224,M«±ga-gemme
+100,101,Ã‰change
+101,102,MÃ©ga-gemme
+103,223,Ã‰change en tenant Peau MÃ©tal
+223,224,MÃ©ga-gemme
 104,105,Niveau 26
 106,107,Niveau 28
 108,109,Niveau 30
 110,111,Pierre Plante
 112,113,Niveau 28
-255,114,Niveau 20 si Attaque > D«±fense
-255,115,Niveau 20 si Attaque < D«±fense
-255,256,Niveau 20 si Attaque = D«±fense
+255,114,Niveau 20 si Attaque > DÃ©fense
+255,115,Niveau 20 si Attaque < DÃ©fense
+255,256,Niveau 20 si Attaque = DÃ©fense
 116,517,Si Roulade apprise
 117,118,Niveau 35
 119,120,Niveau 42
-120,518,ª±change en tenant Protecteur
+120,518,Ã‰change en tenant Protecteur
 491,121,Gain de niveau de jour en tenant Pierre Ovale
 121,261,Bonheur
 122,519,Si Pouvoir Antique apprise
-123,124,M«±ga-gemme
+123,124,MÃ©ga-gemme
 125,126,Niveau 32
-126,249,ª±change en tenant Ecaille Dragon
+126,249,Ã‰change en tenant Ecaille Dragon
 127,128,Niveau 33
 129,130,Pierre Eau
 490,131,Si Copie apprise
-132,228,ª±change en tenant Peau M«±tal
-228,229,M«±ga-gemme
+132,228,Ã‰change en tenant Peau MÃ©tal
+228,229,MÃ©ga-gemme
 257,133,Niveau 30
 258,134,Niveau 30
-134,520,ª±change en tenant ª±lectriseur
+134,520,Ã‰change en tenant Ã‰lectriseur
 259,135,Niveau 30
-135,521,ª±change en tenant Magmariseur
-136,137,M«±ga-gemme
+135,521,Ã‰change en tenant Magmariseur
+136,137,MÃ©ga-gemme
 139,140,Niveau 20
-140,141,M«±ga-gemme
+140,141,MÃ©ga-gemme
 144,145,Pierre Eau
 144,146,Pierre Foudre
 144,147,Pierre Feu
 144,211,Bonheur (jour)
 144,212,Bonheur (nuit)
-144,524,Gain de niveau pr«²s d¡Çune pierre mousse
-144,525,Gain de niveau pr«²s d¡Çune pierre glace
-144,773,Si capacit«± f«±e apprise et 2 coeurs «¢ la pok«±-r«±cr«±
-148,252,ª±change en tenant Am«±liorator
-252,528,ª±change en tenant CD Douteux
+144,524,Gain de niveau prÃ¨s dâ€™une pierre mousse
+144,525,Gain de niveau prÃ¨s dâ€™une pierre glace
+144,773,Si capacitÃ© fÃ©e apprise et 2 coeurs Ã  la pokÃ©-rÃ©crÃ©
+148,252,Ã‰change en tenant AmÃ©liorator
+252,528,Ã‰change en tenant CD Douteux
 149,150,Niveau 40
 151,152,Niveau 40
-153,154,M«±ga-gemme
+153,154,MÃ©ga-gemme
 498,155,Bonheur
 159,160,Niveau 30
 160,161,Niveau 55
-162,163,M«±ga-gemme
-162,164,M«±ga-gemme
+162,163,MÃ©ga-gemme
+162,164,MÃ©ga-gemme
 166,167,Niveau 16
 167,168,Niveau 32
 169,170,Niveau 14
@@ -133,11 +133,11 @@ id_b«±b«±,id_evol,condition
 181,182,Niveau 22
 184,185,Niveau 27
 189,190,Bonheur
-190,522,Pierre ª±clat
+190,522,Pierre Ã‰clat
 191,192,Niveau 25
 193,194,Niveau 15
 194,195,Niveau 30
-195,196,M«±ga-gemme
+195,196,MÃ©ga-gemme
 322,198,Bonheur
 198,199,Niveau 18
 489,200,Si Copie apprise
@@ -153,33 +153,33 @@ id_b«±b«±,id_evol,condition
 219,220,Niveau 31
 222,526,Gain de niveau de nuit en tenant Croc Rasoir
 225,226,Niveau 23
-231,232,M«±ga-gemme
+231,232,MÃ©ga-gemme
 233,515,Gain de niveau de nuit en tenant Griffe Rasoir
 234,235,Niveau 30
 236,237,Niveau 38
 238,239,Niveau 33
 239,527,Si Pouvoir Antique apprise
 241,242,Niveau 25
-511,244,Gain de niveau avec R«±moraid dans l¡Ç«±quipe
+511,244,Gain de niveau avec RÃ©moraid dans lâ€™Ã©quipe
 246,247,Niveau 24
-247,248,M«±ga-gemme
+247,248,MÃ©ga-gemme
 250,251,Niveau 25
 265,266,Niveau 30
 266,267,Niveau 55
-267,268,M«±ga-gemme
+267,268,MÃ©ga-gemme
 272,273,Niveau 16
 273,274,Niveau 36
-274,275,M«±ga-gemme
+274,275,MÃ©ga-gemme
 276,277,Niveau 16
 277,278,Niveau 36
-278,279,M«±ga-gemme
+278,279,MÃ©ga-gemme
 280,281,Niveau 16
 281,282,Niveau 36
-282,283,M«±ga-gemme
+282,283,MÃ©ga-gemme
 284,285,Niveau 18
 286,287,Niveau 20
-288,289,Niveau 7 (al«±atoire)
-288,291,Niveau 7 (al«±atoire)
+288,289,Niveau 7 (alÃ©atoire)
+288,291,Niveau 7 (alÃ©atoire)
 289,290,Niveau 10
 291,292,Niveau 10
 293,294,Niveau 14
@@ -190,91 +190,91 @@ id_b«±b«±,id_evol,condition
 301,302,Niveau 25
 303,304,Niveau 20
 304,305,Niveau 30
-304,529,Pierre Aube (si m«¤le)
-305,306,M«±ga-gemme
-529,530,M«±ga-gemme
+304,529,Pierre Aube (si mÃ¢le)
+305,306,MÃ©ga-gemme
+529,530,MÃ©ga-gemme
 307,308,Niveau 22
 309,310,Niveau 23
 311,312,Niveau 18
 312,313,Niveau 36
 314,315,Niveau 20
-314,316,Niveau 20 si ball dans le sac et place libre dans l¡Ç«±quipe
+314,316,Niveau 20 si ball dans le sac et place libre dans lâ€™Ã©quipe
 317,318,Niveau 20
 318,319,Niveau 40
 320,321,Niveau 24
-323,531,Gain de niveau dans un lieu sp«±cial
+323,531,Gain de niveau dans un lieu spÃ©cial
 324,325,Pierre Lune
-326,327,M«±ga-gemme
-328,329,M«±ga-gemme
+326,327,MÃ©ga-gemme
+328,329,MÃ©ga-gemme
 330,331,Niveau 32
 331,332,Niveau 42
-332,333,M«±ga-gemme
+332,333,MÃ©ga-gemme
 334,335,Niveau 37
-335,336,M«±ga-gemme
+335,336,MÃ©ga-gemme
 337,338,Niveau 26
-338,339,M«±ga-gemme
+338,339,MÃ©ga-gemme
 454,344,Bonheur (jour)
-344,455,Pierre ª±clat
+344,455,Pierre Ã‰clat
 345,346,Niveau 26
 347,348,Niveau 30
-348,349,M«±ga-gemme
+348,349,MÃ©ga-gemme
 350,351,Niveau 40
 352,353,Niveau 33
-353,354,M«±ga-gemme
+353,354,MÃ©ga-gemme
 356,357,Niveau 32
 359,360,Niveau 35
 360,361,Niveau 45
 362,363,Niveau 32
 364,365,Niveau 35
-365,366,M«±ga-gemme
+365,366,MÃ©ga-gemme
 371,372,Niveau 30
 373,374,Niveau 30
 375,376,Niveau 36
 377,378,Niveau 40
 379,380,Niveau 40
-381,382,Statistique Beaut«± au maximum
+381,382,Statistique BeautÃ© au maximum
 383,384,Pluie
 383,385,Soleil
-383,386,Gr«´le
-384,383,M«±t«±o neutre ou temp«´te de sable
-385,383,M«±t«±o neutre ou temp«´te de sable
-386,383,M«±t«±o neutre ou temp«´te de sable
+383,386,GrÃªle
+384,383,MÃ©tÃ©o neutre ou tempÃªte de sable
+385,383,MÃ©tÃ©o neutre ou tempÃªte de sable
+386,383,MÃ©tÃ©o neutre ou tempÃªte de sable
 388,389,Niveau 37
-389,390,M«±ga-gemme
+389,390,MÃ©ga-gemme
 391,392,Niveau 37
-392,532,ª±change en tenant Tissu Fauche
+392,532,Ã‰change en tenant Tissu Fauche
 484,394,Bonheur (nuit)
-395,396,M«±ga-gemme
+395,396,MÃ©ga-gemme
 398,399,Niveau 42
 398,533,Pierre Aube (si femelle)
-399,400,M«±ga-gemme
+399,400,MÃ©ga-gemme
 401,402,Niveau 32
 402,403,Niveau 44
-404,405,ª±change en tenant Dent Oc«±an
-404,406,ª±change en tenant ª±caille Oc«±an
+404,405,Ã‰change en tenant Dent OcÃ©an
+404,406,Ã‰change en tenant Ã‰caille OcÃ©an
 409,410,Niveau 30
 410,411,Niveau 50
-411,412,M«±ga-gemme
+411,412,MÃ©ga-gemme
 413,414,Niveau 20
 414,415,Niveau 45
-415,416,M«±ga-gemme
-420,421,M«±ga-gemme
-422,423,M«±ga-gemme
+415,416,MÃ©ga-gemme
+420,421,MÃ©ga-gemme
+422,423,MÃ©ga-gemme
 424,425,Orbe Bleu
 426,427,Orbe Rouge
-428,429,Si Draco Ascension apprise (M«±ga-«±volution!!!)
-431,432,En touchant le m«±t«±ore
-431,433,En touchant le m«±t«±ore
-431,434,En touchant le m«±t«±ore
-432,431,En touchant le m«±t«±ore
-432,433,En touchant le m«±t«±ore
-432,434,En touchant le m«±t«±ore
-433,431,En touchant le m«±t«±ore
-433,432,En touchant le m«±t«±ore
-433,434,En touchant le m«±t«±ore
-434,431,En touchant le m«±t«±ore
-434,432,En touchant le m«±t«±ore
-434,433,En touchant le m«±t«±ore
+428,429,Si Draco Ascension apprise (MÃ©ga-Ã©volution!!!)
+431,432,En touchant le mÃ©tÃ©ore
+431,433,En touchant le mÃ©tÃ©ore
+431,434,En touchant le mÃ©tÃ©ore
+432,431,En touchant le mÃ©tÃ©ore
+432,433,En touchant le mÃ©tÃ©ore
+432,434,En touchant le mÃ©tÃ©ore
+433,431,En touchant le mÃ©tÃ©ore
+433,432,En touchant le mÃ©tÃ©ore
+433,434,En touchant le mÃ©tÃ©ore
+434,431,En touchant le mÃ©tÃ©ore
+434,432,En touchant le mÃ©tÃ©ore
+434,433,En touchant le mÃ©tÃ©ore
 435,436,Niveau 18
 436,437,Niveau 32
 438,439,Niveau 14
@@ -291,63 +291,63 @@ id_b«±b«±,id_evol,condition
 458,459,Niveau 30
 460,461,Niveau 20 (si femelle cape plante)
 460,462,Niveau 20 (si femelle cape sol)
-460,463,Niveau 20 (si femelle cape d«±chets)
-460,464,Niveau 20 (si m«¤le)
+460,463,Niveau 20 (si femelle cape dÃ©chets)
+460,464,Niveau 20 (si mÃ¢le)
 465,466,Niveau 21 (si femelle)
 468,469,Niveau 26
 470,471,Niveau 25
 472,473,Niveau 30
 475,476,Niveau 28
 477,478,Bonheur
-478,479,M«±ga-gemme
+478,479,MÃ©ga-gemme
 482,483,Niveau 38
 485,486,Niveau 34
 487,488,Niveau 33
 494,495,Niveau 24
 495,496,Niveau 48
-496,497,M«±ga-gemme
+496,497,MÃ©ga-gemme
 499,500,Bonheur (jour)
-500,501,M«±ga-gemme
+500,501,MÃ©ga-gemme
 502,503,Niveau 34
 504,505,Niveau 40
 506,507,Niveau 37
 509,510,Niveau 31
 512,513,Niveau 40
-513,514,M«±ga-gemme
-534,535,En touchant les appareils «±lectriques dans un lieu pr«±cis
-534,536,En touchant les appareils «±lectriques dans un lieu pr«±cis
-534,537,En touchant les appareils «±lectriques dans un lieu pr«±cis
-534,538,En touchant les appareils «±lectriques dans un lieu pr«±cis
-534,539,En touchant les appareils «±lectriques dans un lieu pr«±cis
-535,534,En touchant les appareils «±lectriques dans un lieu pr«±cis
-535,536,En touchant les appareils «±lectriques dans un lieu pr«±cis
-535,537,En touchant les appareils «±lectriques dans un lieu pr«±cis
-535,538,En touchant les appareils «±lectriques dans un lieu pr«±cis
-535,539,En touchant les appareils «±lectriques dans un lieu pr«±cis
-536,534,En touchant les appareils «±lectriques dans un lieu pr«±cis
-536,535,En touchant les appareils «±lectriques dans un lieu pr«±cis
-536,537,En touchant les appareils «±lectriques dans un lieu pr«±cis
-536,538,En touchant les appareils «±lectriques dans un lieu pr«±cis
-536,539,En touchant les appareils «±lectriques dans un lieu pr«±cis
-537,534,En touchant les appareils «±lectriques dans un lieu pr«±cis
-537,535,En touchant les appareils «±lectriques dans un lieu pr«±cis
-537,536,En touchant les appareils «±lectriques dans un lieu pr«±cis
-537,538,En touchant les appareils «±lectriques dans un lieu pr«±cis
-537,539,En touchant les appareils «±lectriques dans un lieu pr«±cis
-538,534,En touchant les appareils «±lectriques dans un lieu pr«±cis
-538,535,En touchant les appareils «±lectriques dans un lieu pr«±cis
-538,536,En touchant les appareils «±lectriques dans un lieu pr«±cis
-538,537,En touchant les appareils «±lectriques dans un lieu pr«±cis
-538,539,En touchant les appareils «±lectriques dans un lieu pr«±cis
-539,534,En touchant les appareils «±lectriques dans un lieu pr«±cis
-539,535,En touchant les appareils «±lectriques dans un lieu pr«±cis
-539,536,En touchant les appareils «±lectriques dans un lieu pr«±cis
-539,537,En touchant les appareils «±lectriques dans un lieu pr«±cis
-539,538,En touchant les appareils «±lectriques dans un lieu pr«±cis
-547,548,En tenant Orbe Platin«±
-548,547,En retirant Orbe Platin«±
-553,554,En offrant des Gracid«±es
-554,553,En offrant des Gracid«±es
+513,514,MÃ©ga-gemme
+534,535,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+534,536,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+534,537,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+534,538,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+534,539,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+535,534,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+535,536,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+535,537,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+535,538,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+535,539,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+536,534,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+536,535,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+536,537,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+536,538,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+536,539,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+537,534,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+537,535,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+537,536,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+537,538,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+537,539,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+538,534,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+538,535,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+538,536,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+538,537,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+538,539,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+539,534,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+539,535,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+539,536,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+539,537,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+539,538,En touchant les appareils Ã©lectriques dans un lieu prÃ©cis
+547,548,En tenant Orbe PlatinÃ©
+548,547,En retirant Orbe PlatinÃ©
+553,554,En offrant des GracidÃ©es
+554,553,En offrant des GracidÃ©es
 557,558,Niveau 17
 558,559,Niveau 36
 560,561,Niveau 17
@@ -366,12 +366,12 @@ id_b«±b«±,id_evol,condition
 582,583,Niveau 32
 584,585,Niveau 27
 586,587,Niveau 25
-587,588,ª±change
+587,588,Ã‰change
 589,590,Bonheur
 591,592,Niveau 31
-593,594,M«±ga-gemme
+593,594,MÃ©ga-gemme
 595,596,Niveau 25
-596,597,ª±change
+596,597,Ã‰change
 598,599,Niveau 25
 599,600,Niveau 36
 603,604,Niveau 20
@@ -391,7 +391,7 @@ id_b«±b«±,id_evol,condition
 630,631,Niveau 37
 632,633,Niveau 36
 634,635,Niveau 30
-636,637,Pierre ª±clat
+636,637,Pierre Ã‰clat
 638,639,Niveau 32
 639,640,Niveau 41
 641,642,Niveau 32
@@ -400,7 +400,7 @@ id_b«±b«±,id_evol,condition
 646,647,Niveau 35
 647,648,Niveau 47
 649,650,Niveau 34
-652,653,ª±change contre Escargaume
+652,653,Ã‰change contre Escargaume
 654,655,Niveau 39
 656,657,Niveau 40
 659,660,Niveau 36
@@ -415,7 +415,7 @@ id_b«±b«±,id_evol,condition
 674,675,Niveau 38
 675,676,Niveau 48
 677,678,Niveau 37
-680,681,ª±change contre Carabing
+680,681,Ã‰change contre Carabing
 683,684,Niveau 50
 686,687,Niveau 43
 688,689,Niveau 52
@@ -424,12 +424,12 @@ id_b«±b«±,id_evol,condition
 697,698,Niveau 50
 698,699,Niveau 64
 700,701,Niveau 59
-705,706,En utilisant le Miroir Sacr«±
-706,705,En utilisant le Miroir Sacr«±
-707,708,En utilisant le Miroir Sacr«±
-708,707,En utilisant le Miroir Sacr«±
-711,712,En utilisant le Miroir Sacr«±
-712,711,En utilisant le Miroir Sacr«±
+705,706,En utilisant le Miroir SacrÃ©
+706,705,En utilisant le Miroir SacrÃ©
+707,708,En utilisant le Miroir SacrÃ©
+708,707,En utilisant le Miroir SacrÃ©
+711,712,En utilisant le Miroir SacrÃ©
+712,711,En utilisant le Miroir SacrÃ©
 709,715,En fusionnant avec Kyurem
 710,714,En fusionnant avec Kyurem
 713,714,En fusionnant avec Zekrom
@@ -450,17 +450,17 @@ id_b«±b«±,id_evol,condition
 736,737,Niveau 12
 738,739,Niveau 35
 740,741,Niveau 19
-741,742,Pierre ª±clat
+741,742,Pierre Ã‰clat
 743,744,Niveau 32
-745,746,Niveau 32 si pok«±mon T«±n«²bres dans l¡Ç«±quipe
-748,749,Niveau 25 si m«¤le
+745,746,Niveau 32 si pokÃ©mon TÃ©nÃ¨bres dans lâ€™Ã©quipe
+748,749,Niveau 25 si mÃ¢le
 748,750,Niveau 25 si femelle
 751,752,Niveau 35
 752,754,Pierre Nuit
-753,754,En utilisant une capacit«± de protection
-754,753,En utilisant une capacit«± offensive
-755,756,ª±change en tenant Sachet Senteur
-757,758,ª±change en tenant Chantibonbon
+753,754,En utilisant une capacitÃ© de protection
+754,753,En utilisant une capacitÃ© offensive
+755,756,Ã‰change en tenant Sachet Senteur
+757,758,Ã‰change en tenant Chantibonbon
 759,760,Niveau 30 en retournant la console
 761,762,Niveau 39
 763,764,Niveau 48
@@ -470,13 +470,13 @@ id_b«±b«±,id_evol,condition
 771,772,Niveau 39 (nuit)
 777,778,Niveau 40
 778,779,Niveau 50 sous la pluie
-781,782,ª±change
-783,787,ª±change
-784,788,ª±change
-785,789,ª±change
-786,790,ª±change
+781,782,Ã‰change
+783,787,Ã‰change
+784,788,Ã‰change
+785,789,Ã‰change
+786,790,Ã‰change
 731,732,Niveau 37
 793,794,Niveau 48
-798,799,M«±ga-gemme
-800,801,En utilisant le Vase Scell«±
+798,799,MÃ©ga-gemme
+800,801,En utilisant le Vase ScellÃ©
 801,800,En le mettant au PC

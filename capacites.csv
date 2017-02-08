@@ -1,14 +1,14 @@
 id,nom,type,categorie,puissance,precision,PP
-0,Ab«Âme,15,0,OHKO,0,5
+0,AbÃ®me,15,0,OHKO,0,5
 1,Acidarmure,12,2,0,0,20
 2,Acide,12,1,40,100,30
 3,Conversion,10,2,0,0,30
-4,Aff«åtage,10,2,0,0,30
-5,Amn«±sie,13,2,0,0,20
+4,AffÃ»tage,10,2,0,0,30
+5,AmnÃ©sie,13,2,0,0,20
 6,Armure,10,2,0,0,30
 7,Balayage,2,0,0,100,20
 8,Bec Vrille,18,0,80,100,20
-9,B«±lier,10,0,90,85,20
+9,BÃ©lier,10,0,90,85,20
 10,Berceuse,10,2,0,55,15
 11,Blizzard,8,1,110,70,5
 12,Bomb'Oeuf,10,0,100,75,10
@@ -16,9 +16,9 @@ id,nom,type,categorie,puissance,precision,PP
 14,Boul'Armure,10,2,0,0,40
 15,Brouillard,10,2,0,100,20
 16,Brume,8,2,0,0,30
-17,Bu«±e Noire,8,2,0,0,30
+17,BuÃ©e Noire,8,2,0,0,30
 18,Bulles d'O,4,1,65,100,20
-19,Cage-ª±clair,5,2,0,100,20
+19,Cage-Ã‰clair,5,2,0,100,20
 20,Cascade,4,0,80,100,15
 21,Charge,10,0,50,100,30
 22,Choc Mental,13,1,50,100,25
@@ -35,35 +35,35 @@ id,nom,type,categorie,puissance,precision,PP
 33,Croissance,10,2,0,0,20
 34,Cru-Aile,18,0,60,100,35
 35,Cyclone,10,2,0,100,20
-36,ª±boulement,14,0,75,90,10
+36,Ã‰boulement,14,0,75,90,10
 37,E-Coque,10,2,0,100,10
-38,ª±clair,5,1,40,100,30
-39,ª±crasement,10,0,65,100,20
-40,ª±cras'Face,10,0,40,100,35
-41,ª±cume,4,1,40,100,30
+38,Ã‰clair,5,1,40,100,30
+39,Ã‰crasement,10,0,65,100,20
+40,Ã‰cras'Face,10,0,40,100,35
+41,Ã‰cume,4,1,40,100,30
 42,Empal'Korne,10,0,OHKO,0,5
 43,Entrave,10,2,0,100,20
 44,Explosion,10,0,250,100,5
-45,Poing-Karat«±,2,0,50,100,25
+45,Poing-KaratÃ©,2,0,50,100,25
 46,Torgnoles,10,0,15,85,10
-47,Poing Com«²te,10,0,18,85,15
+47,Poing ComÃ¨te,10,0,18,85,15
 48,Ultimapoing,10,0,80,85,20
 49,Jackpot,10,0,40,100,20
 50,Poing de Feu,7,0,75,100,15
 51,Poinglace,8,0,75,100,15
-52,Poing-ª±clair,5,0,75,100,15
+52,Poing-Ã‰clair,5,0,75,100,15
 53,Griffe,10,0,40,100,35
 54,Force Poigne,10,0,55,100,30
 55,Guillotine,10,0,OHKO,0,5
 56,Danse-Lames,10,2,0,0,30
 57,Tornade,18,1,40,100,35
 58,Vol,18,0,90,95,15
-59,ª±treinte,10,0,15,85,20
+59,Ã‰treinte,10,0,15,85,20
 60,Souplesse,10,0,80,75,20
 61,Fouet Lianes,11,0,45,100,25
 62,Double-Pied,2,0,30,100,30
 63,Ultimawashi,10,0,120,75,5
-64,Pied Saut«±,2,0,100,95,10
+64,Pied SautÃ©,2,0,100,95,10
 65,Mawashi Geri,2,0,60,85,15
 66,Jet de Sable,15,2,0,100,15
 67,Koud'Korne,10,0,65,100,25
@@ -71,25 +71,25 @@ id,nom,type,categorie,puissance,precision,PP
 69,Plaquage,10,0,85,100,15
 70,Ligotage,10,0,15,90,20
 71,Mania,10,0,120,100,10
-72,Damocl«²s,10,0,120,100,15
+72,DamoclÃ¨s,10,0,120,100,15
 73,Mimi-Queue,10,2,0,100,30
 74,Dard-Venin,12,0,15,100,35
 75,Double-Dard,9,0,25,100,20
-76,Dard-Nu«±e,9,0,25,95,20
+76,Dard-NuÃ©e,9,0,25,95,20
 77,Groz'Yeux,10,2,0,100,30
 78,Morsure,17,0,60,100,25
 79,Rugissement,10,2,0,100,40
 80,Hurlement,10,2,0,100,20
 81,Ultrason,10,2,0,55,20
 82,Sonicboom,10,1,0,90,20
-83,Flamm«²che,7,1,40,100,25
+83,FlammÃ¨che,7,1,40,100,25
 84,Lance-Flammes,7,1,90,100,15
-85,Pistolet ª¢ O,4,1,40,100,25
+85,Pistolet Ã€ O,4,1,40,100,25
 86,Hydrocanon,4,1,110,80,5
 87,Surf,4,1,90,100,15
 88,Laser Glace,8,1,90,100,10
 89,Rafale Psy,13,1,65,100,20
-90,Onde Bor«±ale,8,1,65,100,20
+90,Onde BorÃ©ale,8,1,65,100,20
 91,Ultralaser,10,1,150,90,5
 92,Picpic,18,0,35,100,35
 93,Sacrifice,2,0,80,80,25
@@ -97,7 +97,7 @@ id,nom,type,categorie,puissance,precision,PP
 95,Frappe Atlas,2,0,0,100,20
 96,Force,10,0,80,100,15
 97,Vol-Vie,11,1,20,100,25
-98,M«±ga-Sangsue,11,1,40,100,15
+98,MÃ©ga-Sangsue,11,1,40,100,15
 99,Vampigraine,11,2,0,90,10
 100,Tranch'Herbe,11,0,55,95,25
 101,Lance-Soleil,11,1,120,100,10
@@ -105,22 +105,22 @@ id,nom,type,categorie,puissance,precision,PP
 103,Para-Spore,11,2,0,75,30
 104,Poudre Dodo,11,2,0,75,15
 105,Danse-Fleur,11,1,120,100,10
-106,S«±cr«±tion,9,2,0,95,40
+106,SÃ©crÃ©tion,9,2,0,95,40
 107,Draco-Rage,3,1,0,100,10
 108,Danse Flamme,7,1,35,85,15
 109,Tonnerre,5,1,90,100,15
 110,Fatal-Foudre,5,1,110,70,10
 111,Jet-Pierres,14,0,50,90,15
-112,S«±isme,15,0,100,100,10
+112,SÃ©isme,15,0,100,100,10
 113,Tunnel,15,0,80,100,10
 114,Toxik,12,2,0,90,10
 115,Psyko,13,1,90,100,10
 116,Hypnose,13,2,0,60,20
 117,Yoga,13,2,0,0,40
-118,H«¤te,13,2,0,0,30
+118,HÃ¢te,13,2,0,0,30
 119,Vive-Attaque,10,0,40,100,30
-120,Fr«±n«±sie,10,0,20,100,20
-121,T«±l«±port,13,2,0,0,20
+120,FrÃ©nÃ©sie,10,0,20,100,20
+121,TÃ©lÃ©port,13,2,0,0,20
 122,Ombre Nocturne,16,1,0,100,15
 123,Grincement,10,2,0,85,40
 124,Reflet,10,2,0,0,15
@@ -128,30 +128,30 @@ id,nom,type,categorie,puissance,precision,PP
 126,Lilliput,10,2,0,0,10
 127,Onde Folie,16,2,0,100,10
 128,Repli,4,2,0,0,40
-129,Mur Lumi«²re,13,2,0,0,30
+129,Mur LumiÃ¨re,13,2,0,0,30
 130,Protection,13,2,0,0,20
 131,Puissance,10,2,0,0,30
 132,Patience,10,0,0,100,10
-133,M«±tronome,10,2,0,0,10
+133,MÃ©tronome,10,2,0,0,10
 134,Mimique,18,2,0,0,20
 135,Destruction,10,0,200,100,5
-136,L«±chouille,16,0,30,100,30
-137,Pur«±dpois,12,1,30,70,20
-138,D«±tritus,12,1,65,100,20
+136,LÃ©chouille,16,0,30,100,30
+137,PurÃ©dpois,12,1,30,70,20
+138,DÃ©tritus,12,1,65,100,20
 139,Massd'Os,15,0,65,85,20
-140,D«±flagration,7,1,110,85,5
-141,M«±t«±ores,10,1,60,0,20
-142,Coud'Kr«¤ne,10,0,130,100,10
+140,DÃ©flagration,7,1,110,85,5
+141,MÃ©tÃ©ores,10,1,60,0,20
+142,Coud'KrÃ¢ne,10,0,130,100,10
 143,Picanon,10,0,20,100,15
-144,T«±l«±kin«±sie,13,2,0,80,15
+144,TÃ©lÃ©kinÃ©sie,13,2,0,80,15
 145,Pied Voltige,2,0,130,90,10
-146,Regard M«±dusant,10,2,0,100,30
-147,D«±vor«´ve,13,1,100,100,15
+146,Regard MÃ©dusant,10,2,0,100,30
+147,DÃ©vorÃªve,13,1,100,100,15
 148,Gaz Toxik,12,2,0,90,40
 149,Pilonnage,10,0,15,85,20
 150,Vampirisme,9,0,20,100,15
 151,Grobisou,10,2,0,75,10
-152,Piqu«±,18,0,140,90,5
+152,PiquÃ©,18,0,140,90,5
 153,Morphing,10,2,0,0,10
 154,Uppercut,10,0,70,100,10
 155,Spore,11,2,0,100,15
@@ -172,13 +172,13 @@ id,nom,type,categorie,puissance,precision,PP
 170,Cauchemar,16,2,0,100,15
 171,Roue de Feu,7,0,60,100,25
 172,Ronflement,10,1,40,100,15
-173,Mal«±diction,16,2,0,0,10
-174,Fl«±au,10,0,0,100,15
+173,MalÃ©diction,16,2,0,0,10
+174,FlÃ©au,10,0,0,100,15
 175,Conversion2,10,2,0,100,30
-176,A«±roblast,18,1,100,95,5
+176,AÃ©roblast,18,1,100,95,5
 177,Spore Coton,11,2,0,100,40
 178,Contre,2,0,0,100,15
-179,D«±pit,16,2,0,100,10
+179,DÃ©pit,16,2,0,100,10
 180,Poudreuse,8,1,40,100,25
 181,Abri,10,2,0,0,10
 182,Mach Punch,2,0,40,100,30
@@ -190,24 +190,24 @@ id,nom,type,categorie,puissance,precision,PP
 188,Coud'Boue,15,1,20,100,10
 189,Octazooka,4,1,65,85,10
 190,Picots,15,2,0,0,20
-191,ª±l«±canon,5,1,120,50,5
+191,Ã‰lÃ©canon,5,1,120,50,5
 192,Clairvoyance,10,2,0,100,40
 193,Prlvt Destin,16,2,0,0,5
 194,Requiem,10,2,0,0,5
 195,Vent Glace,8,1,55,95,15
-196,D«±tection,2,2,0,0,5
+196,DÃ©tection,2,2,0,0,5
 197,Charge-Os,15,0,25,90,10
 198,Verrouillage,10,2,0,100,5
-199,Col«²re,3,0,120,100,15
-200,Temp«´tesable,14,2,0,0,10
+199,ColÃ¨re,3,0,120,100,15
+200,TempÃªtesable,14,2,0,0,10
 201,Giga-Sangsue,11,1,75,100,10
-202,T«±nacit«±,10,2,0,0,10
+202,TÃ©nacitÃ©,10,2,0,0,10
 203,Charme,6,2,0,100,20
 204,Roulade,14,0,30,90,20
 205,Faux-Chage,10,0,40,100,40
 206,Vantardise,10,2,0,90,15
-207,Lait ª¢ Boire,10,2,0,0,10
-208,ª±tincelle,5,0,65,100,20
+207,Lait Ã€ Boire,10,2,0,0,10
+208,Ã‰tincelle,5,0,65,100,20
 209,Taillade,9,0,20,95,20
 210,Aile d'Acier,1,0,70,90,25
 211,Regard Noir,10,2,0,100,5
@@ -219,10 +219,10 @@ id,nom,type,categorie,puissance,precision,PP
 217,Frustration,10,0,0,100,20
 218,Rune Protect,10,2,0,0,25
 219,Balance,10,2,0,100,20
-220,Feu Sacr«±,7,0,100,95,5
+220,Feu SacrÃ©,7,0,100,95,5
 221,Ampleur,15,0,0,100,30
 222,Dynamopoing,2,0,100,50,5
-223,M«±gacorne,9,0,120,85,10
+223,MÃ©gacorne,9,0,120,85,10
 224,Dracosouffle,3,1,60,100,20
 225,Relais,10,2,0,0,40
 226,Encore,10,2,0,100,5
@@ -233,35 +233,35 @@ id,nom,type,categorie,puissance,precision,PP
 231,Griffe Acier,1,0,50,95,35
 232,Corps Perdu,2,0,70,100,10
 233,Aurore,10,2,0,0,5
-234,Synth«²se,11,2,0,0,5
+234,SynthÃ¨se,11,2,0,0,5
 235,Rayon Lune,6,2,0,0,5
-236,Puiss. Cach«±e,10,1,0,100,15
+236,Puiss. CachÃ©e,10,1,0,100,15
 237,Coup-Croix,2,0,100,80,5
 238,Ouragan,3,1,40,100,20
 239,Danse Pluie,4,2,0,0,5
-240,Z«±nith,7,2,0,0,5
-241,M«¤chouille,17,0,80,100,15
+240,ZÃ©nith,7,2,0,0,5
+241,MÃ¢chouille,17,0,80,100,15
 242,Voile Miroir,13,1,0,100,20
 243,Boost,10,2,0,0,10
-244,Vit.Extr«´me,10,0,80,100,5
+244,Vit.ExtrÃªme,10,0,80,100,5
 245,Pouvoir Antique,14,1,60,100,5
 246,Ball'Ombre,16,1,80,100,15
 247,Prescience,13,1,100,100,10
-248,ª±clate-Roc,2,0,40,100,15
+248,Ã‰clate-Roc,2,0,40,100,15
 249,Siphon,4,1,35,85,15
 250,Baston,17,0,0,100,10
 251,Bluff,10,0,40,100,10
 252,Brouhaha,10,1,90,100,10
 253,Stockage,10,2,0,0,20
-254,Rel«¤che,10,1,0,100,10
+254,RelÃ¢che,10,1,0,100,10
 255,Avale,10,2,0,0,10
 256,Canicule,7,1,100,90,10
-257,Gr«´le,8,2,0,0,10
+257,GrÃªle,8,2,0,0,10
 258,Tourmente,17,2,0,100,15
 259,Flatterie,17,2,0,100,15
 260,Feu Follet,7,2,0,75,15
 261,Souvenir,17,2,0,100,10
-262,Fa«®ade,10,0,70,100,20
+262,FaÃ§ade,10,0,70,100,20
 263,Mitra-Poing,2,0,150,100,20
 264,Stimulant,10,0,60,100,10
 265,Par Ici,10,2,0,100,20
@@ -279,49 +279,49 @@ id,nom,type,categorie,puissance,precision,PP
 277,Recyclage,10,2,0,100,10
 278,Vendetta,2,0,60,100,10
 279,Casse-Brique,2,0,75,100,15
-280,B«¤illement,10,2,0,100,10
+280,BÃ¢illement,10,2,0,100,10
 281,Sabotage,17,0,20,100,20
 282,Effort,10,0,0,100,5
-283,ª±ruption,7,1,150,100,5
-284,ª±change,13,2,0,100,10
+283,Ã‰ruption,7,1,150,100,5
+284,Ã‰change,13,2,0,100,10
 285,Possessif,13,2,0,100,10
-286,R«±g«±n«±ration,10,2,0,100,20
+286,RÃ©gÃ©nÃ©ration,10,2,0,100,20
 287,Rancune,16,2,0,100,5
 288,Saisie,17,2,0,100,10
-289,Force Cach«±e,10,0,70,100,20
-290,Plong«±e,4,0,80,100,10
+289,Force CachÃ©e,10,0,70,100,20
+290,PlongÃ©e,4,0,80,100,10
 291,Cogne,2,0,15,100,20
 292,Camouflage,10,2,0,100,20
 293,Lumiqueue,9,2,0,100,20
-294,Lumi-ª±clat,13,1,70,100,5
+294,Lumi-Ã‰clat,13,1,70,100,5
 295,Ball'Brume,13,1,70,100,5
 296,Danse-Plume,18,2,0,100,15
 297,Danse-Folle,10,2,0,100,20
-298,Pied Br«åleur,7,0,85,90,10
+298,Pied BrÃ»leur,7,0,85,90,10
 299,Lance-Boue,15,2,0,100,15
 300,Ball'Glace,8,0,30,90,20
 301,Poing Dard,11,0,60,100,15
 302,Paresse,10,2,0,100,10
-303,M«±gaphone,10,1,90,100,10
+303,MÃ©gaphone,10,1,90,100,10
 304,Crochetvenin,12,0,50,100,15
-305,ª±clategriffe,10,0,75,95,10
+305,Ã‰clategriffe,10,0,75,95,10
 306,Rafale Feu,7,1,150,90,5
 307,Hydroblast,4,1,150,90,5
-308,Poing M«±t«±or,1,0,100,85,10
-309,ª±tonnement,16,0,30,100,15
-310,Ball'M«±t«±o,10,1,50,100,10
-311,Aromath«±rapi,11,2,0,0,5
+308,Poing MÃ©tÃ©or,1,0,100,85,10
+309,Ã‰tonnement,16,0,30,100,15
+310,Ball'MÃ©tÃ©o,10,1,50,100,10
+311,AromathÃ©rapi,11,2,0,0,5
 312,Croco Larme,17,2,0,100,20
 313,Tranch'Air,18,1,55,95,25
 314,Surchauffe,7,1,140,90,5
 315,Flair,10,2,0,100,40
 316,Tomberoche,14,0,50,80,10
-317,Vent Argent«±,9,1,60,100,5
+317,Vent ArgentÃ©,9,1,60,100,5
 318,Strido-Son,1,2,0,85,40
 319,Siffl'Herbe,11,2,0,55,15
 320,Chatouille,10,2,0,100,20
 321,Force Cosmik,13,2,0,0,20
-322,Gicl«±do,4,1,0,100,5
+322,GiclÃ©do,4,1,0,100,5
 323,Rayon Signal,9,1,75,100,15
 324,Poing Ombre,16,0,60,0,20
 325,Extrasenseur,13,1,80,100,30
@@ -330,22 +330,22 @@ id,nom,type,categorie,puissance,precision,PP
 328,Glaciation,8,1,OHKO,0,5
 329,Ocroupi,4,1,95,85,10
 330,Balle Graine,11,0,25,100,30
-331,A«±ropique,18,0,60,0,20
+331,AÃ©ropique,18,0,60,0,20
 332,Stalagtite,8,0,25,100,30
 333,Mur de Fer,1,2,0,0,15
 334,Barrage,10,2,0,100,5
 335,Grondement,10,2,0,0,40
 336,Dracogriffe,3,0,80,100,15
-337,V«±g«±-Attak,11,1,150,90,5
+337,VÃ©gÃ©-Attak,11,1,150,90,5
 338,Gonflette,2,2,0,0,20
 339,Rebond,18,0,85,85,5
 340,Tir de Boue,15,1,55,95,15
 341,Queue-Poison,12,0,50,100,25
 342,Implore,10,0,60,100,40
-343,ª±lectacle,5,0,120,100,15
+343,Ã‰lectacle,5,0,120,100,15
 344,Feuille Magik,11,1,60,0,20
 345,Tourniquet,4,2,0,100,15
-346,Pl«±nitude,13,2,0,0,20
+346,PlÃ©nitude,13,2,0,0,20
 347,Lame-Feuille,11,0,90,100,15
 348,Danse Draco,3,2,0,0,20
 349,Boule Roc,14,0,25,90,10
@@ -354,9 +354,9 @@ id,nom,type,categorie,puissance,precision,PP
 352,Carnareket,1,1,140,100,5
 353,Psycho Boost,13,1,140,90,5
 354,Atterrissage,18,2,0,0,10
-355,Gravit«±,13,2,0,0,5
+355,GravitÃ©,13,2,0,0,5
 356,Oeil Miracle,13,2,0,0,40
-357,R«±veil Forc«±,2,0,60,100,10
+357,RÃ©veil ForcÃ©,2,0,60,100,10
 358,Marto-Poing,2,0,100,90,10
 359,Gyroballe,1,0,0,100,5
 360,Voeu Soin,13,2,0,0,10
@@ -364,16 +364,16 @@ id,nom,type,categorie,puissance,precision,PP
 362,Don Naturel,10,0,0,100,15
 363,Ruse,10,0,30,100,10
 364,Picore,18,0,60,100,20
-365,Vent Arri«²re,18,2,0,0,30
+365,Vent ArriÃ¨re,18,2,0,0,30
 366,Acupression,10,2,0,0,30
 367,Fulmifer,1,0,0,100,10
 368,Demi-Tour,9,0,70,100,20
 369,Close Combat,2,0,120,100,5
-370,Repr«±sailles,17,0,50,100,10
+370,ReprÃ©sailles,17,0,50,100,10
 371,Assurance,17,0,50,100,10
 372,Embargo,17,2,0,100,15
-373,D«±gommage,17,0,0,100,10
-374,ª±change Psy,13,2,0,90,10
+373,DÃ©gommage,17,0,0,100,10
+374,Ã‰change Psy,13,2,0,90,10
 375,Atout,10,1,0,0,5
 376,Anti-Soin,13,2,0,100,15
 377,Essorage,10,1,0,100,5
@@ -391,10 +391,10 @@ id,nom,type,categorie,puissance,precision,PP
 389,Pics Toxik,12,2,0,0,20
 390,Permucoeur,13,2,0,0,10
 391,Anneau Hydro,4,2,0,0,20
-392,Vol Magn«±tik,5,2,0,0,10
+392,Vol MagnÃ©tik,5,2,0,0,10
 393,Boutefeu,7,0,120,100,15
 394,Forte-Paume,2,0,60,100,10
-395,Aurasph«²re,2,1,90,0,20
+395,AurasphÃ¨re,2,1,90,0,20
 396,Poliroche,14,2,0,0,20
 397,Direct Toxik,12,0,80,100,20
 398,Vibrobscur,17,1,80,100,15
@@ -410,7 +410,7 @@ id,nom,type,categorie,puissance,precision,PP
 408,Vampipoing,2,0,75,100,10
 409,Onde Vide,2,1,40,100,30
 410,Exploforce,2,1,120,70,5
-411,ª±co-Sph«²re,11,1,80,100,10
+411,Ã‰co-SphÃ¨re,11,1,80,100,10
 412,Rapace,18,0,120,100,15
 413,Telluriforce,15,1,90,100,10
 414,Passe-Passe,17,2,0,100,10
@@ -418,12 +418,12 @@ id,nom,type,categorie,puissance,precision,PP
 416,Machination,17,2,0,0,20
 417,Pisto-Poing,1,0,40,100,30
 418,Avalanche,8,0,60,100,10
-419,ª±clats Glace,8,0,40,100,30
+419,Ã‰clats Glace,8,0,40,100,30
 420,Griffe Ombre,16,0,70,100,15
-421,Crocs ª±clair,5,0,65,95,15
+421,Crocs Ã‰clair,5,0,65,95,15
 422,Crocs Givre,8,0,65,95,15
 423,Crocs Feu,7,0,65,95,15
-424,Ombre Port«±e,16,0,40,100,30
+424,Ombre PortÃ©e,16,0,40,100,30
 425,Boue-Bombe,15,1,65,85,10
 426,Coupe Psycho,13,0,70,100,20
 427,Psykoud'Boul,13,0,80,90,15
@@ -432,30 +432,30 @@ id,nom,type,categorie,puissance,precision,PP
 430,Escalade,10,0,90,85,20
 431,Anti-Brume,18,2,0,0,15
 432,Distorsion,13,2,0,0,5
-433,Draco M«±t«±or,3,1,140,90,5
+433,Draco MÃ©tÃ©or,3,1,140,90,5
 434,Coup d'Jus,5,1,80,100,15
-435,ª±bullilave,7,1,80,100,15
-436,Temp«´teverte,11,1,140,90,5
-437,M«±gafouet,11,0,120,85,10
+435,Ã‰bullilave,7,1,80,100,15
+436,TempÃªteverte,11,1,140,90,5
+437,MÃ©gafouet,11,0,120,85,10
 438,Roc-Boulet,14,0,150,90,5
 439,Poison-Croix,12,0,70,100,20
-440,D«±tricanon,12,0,120,70,5
-441,T«´te de Fer,1,0,80,100,15
+440,DÃ©tricanon,12,0,120,70,5
+441,TÃªte de Fer,1,0,80,100,15
 442,Bombaimant,1,0,60,0,20
 443,Lame de Roc,14,0,100,80,5
-444,S«±duction,10,2,0,100,20
-445,Pi«²ge de Roc,14,2,0,0,20
+444,SÃ©duction,10,2,0,100,20
+445,PiÃ¨ge de Roc,14,2,0,0,20
 446,Noeud Herbe,11,1,0,100,20
 447,Babil,18,1,60,100,20
 448,Jugement,10,1,100,100,10
-449,Piq«åre,9,0,60,100,20
-450,Rayon Charg«±,5,1,50,90,10
+449,PiqÃ»re,9,0,60,100,20
+450,Rayon ChargÃ©,5,1,50,90,10
 451,Martobois,11,0,120,100,15
 452,Aqua-Jet,4,0,40,100,20
 453,Appel Attak,9,0,90,100,15
-454,Appel D«±fens,9,2,0,0,10
+454,Appel DÃ©fens,9,2,0,0,10
 455,Appel Soins,9,2,0,0,10
-456,Fracass'T«´te,14,0,150,80,5
+456,Fracass'TÃªte,14,0,150,80,5
 457,Coup Double,10,0,35,90,10
 458,Hurle-Temps,3,1,150,90,5
 459,Spatio-Rift,3,1,100,95,5
@@ -470,12 +470,12 @@ id,nom,type,categorie,puissance,precision,PP
 468,Garde Large,14,2,0,0,10
 469,PartageGarde,13,2,0,0,10
 470,PartageForce,13,2,0,0,10
-471,Zone ª±trange,13,2,0,0,10
+471,Zone Ã‰trange,13,2,0,0,10
 472,Choc Psy,13,1,80,100,10
 473,Choc Venin,12,1,65,100,10
-474,All«²gement,1,2,0,0,15
+474,AllÃ¨gement,1,2,0,0,15
 475,PoudreFureur,9,2,0,0,20
-476,L«±vikin«±sie,13,2,0,0,15
+476,LÃ©vikinÃ©sie,13,2,0,0,15
 477,Zone Magique,13,2,0,0,10
 478,Anti-Air,14,0,50,100,15
 479,Yama Arashi,2,0,40,100,10
@@ -484,8 +484,8 @@ id,nom,type,categorie,puissance,precision,PP
 482,Papillodanse,9,2,0,0,20
 483,Tacle Lourd,1,0,0,100,10
 484,Synchropeine,13,1,70,100,15
-485,Boule ª±lek,5,1,0,100,10
-486,D«±trempage,4,2,0,100,20
+485,Boule Ã‰lek,5,1,0,100,10
+486,DÃ©trempage,4,2,0,100,20
 487,Nitrocharge,7,0,50,100,20
 488,Enroulement,12,2,0,0,20
 489,Balayette,2,0,60,100,20
@@ -493,23 +493,23 @@ id,nom,type,categorie,puissance,precision,PP
 491,Tricherie,17,0,95,100,15
 492,Rayon Simple,10,2,0,100,15
 493,Ten-danse,10,2,0,100,15
-494,Apr«²s Vous,10,2,0,0,15
+494,AprÃ¨s Vous,10,2,0,0,15
 495,Chant Canon,10,1,60,100,15
-496,ª±cho,10,1,40,100,15
+496,Ã‰cho,10,1,40,100,15
 497,Attrition,10,0,70,100,20
 498,Bain de Smog,12,1,50,0,15
-499,ForceAjout«±e,13,1,20,100,10
-500,Pr«±vention,2,2,0,0,15
+499,ForceAjoutÃ©e,13,1,20,100,10
+500,PrÃ©vention,2,2,0,0,15
 501,Interversion,13,2,0,0,15
-502,ª±bullition,4,1,80,100,15
+502,Ã‰bullition,4,1,80,100,15
 503,Exuviation,10,2,0,0,15
 504,Vibra Soin,13,2,0,0,10
-505,Ch«¤timent,16,1,50,100,10
+505,ChÃ¢timent,16,1,50,100,10
 506,Chute Libre,18,0,60,100,10
 507,Chgt Vitesse,1,2,0,0,10
 508,Projection,2,0,60,90,10
 509,Calcination,7,1,30,100,15
-510,ª¢ la Queue,17,2,0,100,15
+510,Ã€ la Queue,17,2,0,100,15
 511,Acrobatie,18,0,55,100,15
 512,Copie-Type,10,2,0,0,15
 513,Vengeance,10,0,70,100,5
@@ -519,17 +519,17 @@ id,nom,type,categorie,puissance,precision,PP
 517,Aire d'Eau,4,1,50,100,10
 518,Aire de Feu,7,1,50,100,10
 519,Aire d'Herbe,11,1,50,100,10
-520,Change ª±clair,5,1,70,100,20
+520,Change Ã‰clair,5,1,70,100,20
 521,Survinsecte,9,1,30,100,20
-522,Pi«±tisol,15,0,60,100,20
-523,Souffle Glac«±,8,1,40,90,10
+522,PiÃ©tisol,15,0,60,100,20
+523,Souffle GlacÃ©,8,1,40,90,10
 524,Draco-Queue,3,0,60,90,10
 525,Rengorgement,10,2,0,0,30
-526,Toile ª±lek,5,1,55,95,15
-527,ª±clair Fou,5,0,90,100,15
+526,Toile Ã‰lek,5,1,55,95,15
+527,Ã‰clair Fou,5,0,90,100,15
 528,Tunnelier,15,0,80,95,10
 529,Double Baffe,3,0,40,90,15
-530,Cr«²vecoeur,13,0,60,100,25
+530,CrÃ¨vecoeur,13,0,60,100,25
 531,Encornebois,11,0,75,100,10
 532,Lame Sainte,2,0,90,100,20
 533,Coquilame,4,0,75,95,10
@@ -541,69 +541,69 @@ id,nom,type,categorie,puissance,precision,PP
 539,Frappe Psy,13,1,100,100,10
 540,Plumo-Queue,10,0,25,85,10
 541,Vent Violent,18,1,120,70,10
-542,Peign«±e,10,0,120,100,15
-543,Lanc«±crou,1,0,50,85,15
+542,PeignÃ©e,10,0,120,100,15
+543,LancÃ©crou,1,0,50,85,15
 544,Incendie,7,1,100,100,5
 545,Techno Buster,10,1,85,100,5
 546,Chant Antique,10,1,75,100,10
 547,Lame Ointe,2,1,85,100,10
-548,ª²re Glaciaire,8,1,65,95,10
+548,Ãˆre Glaciaire,8,1,65,95,10
 549,Charge Foudre,5,0,130,85,5
 550,Flamme Bleue,7,1,130,85,5
 551,Danse du Feu,7,1,80,100,10
-552,ª±clair Gel«±,8,0,140,90,5
-553,Feu Glac«±,8,1,140,90,5
+552,Ã‰clair GelÃ©,8,0,140,90,5
+553,Feu GlacÃ©,8,1,140,90,5
 554,Aboiement,17,1,55,95,15
 555,Chute Glace,8,0,85,90,10
 556,Coup Victoire,7,0,180,95,5
 557,Flamme Croix,7,1,100,100,5
-558,ª±clair Croix,5,0,100,100,5
-559,ª±lectrisation,5,2,0,0,20
-560,Magn«±-Contr«Ôle,5,2,0,0,20
-561,D«±lugePlasmique,5,2,0,0,25
-562,Champ ª±lectrifi«±,5,2,0,0,10
+558,Ã‰clair Croix,5,0,100,100,5
+559,Ã‰lectrisation,5,2,0,0,20
+560,MagnÃ©-ContrÃ´le,5,2,0,0,20
+561,DÃ©lugePlasmique,5,2,0,0,25
+562,Champ Ã‰lectrifiÃ©,5,2,0,0,10
 563,Regard Touchant,6,2,0,100,30
 564,Poing Boost,2,0,40,100,20
-565,Vent F«±«±rique,6,1,40,100,30
+565,Vent FÃ©Ã©rique,6,1,40,100,30
 566,Camaraderie,10,2,0,0,20
 567,Parabocharge,5,1,50,100,20
 568,Frotte-Frimousse,5,0,20,100,20
-569,ª±clat Magique,6,1,80,100,10
+569,Ã‰clat Magique,6,1,80,100,10
 570,Vampibaiser,6,1,50,100,10
 571,Pouvoir Lunaire,6,1,95,100,15
-572,C«¤linerie,6,0,90,90,10
-573,Feu Ensorcel«±,7,1,65,100,10
-574,Mal«±fice Sylvain,11,2,0,100,20
+572,CÃ¢linerie,6,0,90,90,10
+573,Feu EnsorcelÃ©,7,1,65,100,10
+574,MalÃ©fice Sylvain,11,2,0,100,20
 575,Hantise,16,0,90,100,10
 576,Champ Brumeux,6,2,0,0,10
-577,Voix Enj«Ôleuse,6,1,40,0,15
-578,Harc«²lement,9,1,20,100,20
+577,Voix EnjÃ´leuse,6,1,40,0,15
+578,HarcÃ¨lement,9,1,20,100,20
 579,Dard Mortel,9,0,30,100,25
 580,Toile Gluante,9,2,0,100,20
 581,Sheauriken,4,0,15,100,10
 582,Bang Sonique,10,1,140,100,10
-583,Pi«²ge de Venin,12,2,0,100,20
+583,PiÃ¨ge de Venin,12,2,0,100,20
 584,Bouclier Royal,1,2,0,100,10
 585,Brume Capiteuse,6,2,0,0,20
 586,Champ Herbu,11,2,0,0,10
 587,Confidence,10,2,0,0,20
 588,Dernier Mot,17,2,0,100,20
 589,Force Chtonienne,15,0,90,100,10
-590,G«±o-Contr«Ôle,6,2,0,0,10
+590,GÃ©o-ContrÃ´le,6,2,0,0,10
 591,Halloween,16,2,0,100,20
 592,Lyophilisation,8,1,70,100,20
 593,Mort-Ailes,18,1,80,100,10
-594,Nu«±e de Poudre,9,2,0,100,20
-595,Pico-D«±fense,11,2,0,0,10
+594,NuÃ©e de Poudre,9,2,0,100,20
+595,Pico-DÃ©fense,11,2,0,0,10
 596,Garde Florale,6,2,0,0,10
-597,R«¤le M«¤le,10,2,0,100,30
+597,RÃ¢le MÃ¢le,10,2,0,100,30
 598,Renversement,17,2,0,0,20
-599,Temp«´te Florale,11,0,90,100,15
-600,ª±ructation,12,1,120,90,10
+599,TempÃªte Florale,11,0,90,100,15
+600,Ã‰ructation,12,1,120,90,10
 601,Flying Press,2,0,85,95,10
 602,Tatamigaeshi,2,2,0,0,10
 603,Fertilisation,15,2,0,0,10
-604,Ondes ª±tranges,5,2,0,0,15
-605,Verrou Enchant«±,6,2,0,0,10
+604,Ondes Ã‰tranges,5,2,0,0,15
+605,Verrou EnchantÃ©,6,2,0,0,10
 606,Vigilance,6,2,0,0,10
 607,Jet de Vapeur,4,1,110,90,5
