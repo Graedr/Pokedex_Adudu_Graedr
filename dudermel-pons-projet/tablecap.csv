@@ -1,0 +1,173 @@
+0,Abîme,9,5,-1,30,"Peut mettre KO en 1 coup
+Sans effet sur les Pokémon VOL"
+1,Acid'armure,8,40,0,100,Augmente beaucoup la défense
+2,Acide,8,30,40,100,Une chance sur trois d'affaiblir la défense de l'adversaire
+3,Adaptation,1,40,0,100,Le Pokémon qui lance l'attaque prend le type du Pokémon adverse
+4,Affûtage,1,30,0,100,Augmente l'attaque
+5,Amnésie,11,20,0,100,Augmente le spécial
+6,Armure,1,30,0,100,Augmente la défense
+7,Balayage,7,20,50,90,Une chance sur trois d'apeurer l'adversaire
+8,Bec Vrille,10,20,80,100,Utilise le bec comme perceuse
+9,Bélier,1,20,90,85,Un quart des dégâts subi par le Pokémon qui lance l'attaque
+10,Berceuse,1,15,0,55,Peut endormir l'adversaire
+11,Blizzard,6,5,120,90,Une chance sur dix de geler l'adversaire
+12,Bomb'oeuf,1,10,100,75,Ulance un œuf explosif sur l'adversaire
+13,Bouclier,11,30,0,100,La défense est considérablement augmentée
+14,Boul'armure,1,20,0,100,Augmente la défense
+15,Brouillard,1,20,0,100,Réduit la précision de l'adversaire
+16,Brume,6,30,0,100,Protège des changements de statuts
+17,Buée noire,6,30,0,100,Annule tous changements de statuts des deux Pokémon en combat
+18,Bulles d'O,3,20,65,100,Une chance sur trois de réduire la vitesse de l'adversaire
+19,Cage éclair,4,20,0,100,Paralyse l'adversaire
+20,Cascade,3,15,80,100,S'utilise pour remonter des cascades à l'extérieur des combats
+21,Charge,1,35,35,85,Le lanceur charge l'ennmi de tout son corps
+22,Choc mental,11,25,50,100,Une chance sur dix de rendre confus l'adversaire
+23,Claquoir,3,10,35,75,L'adversaire est immobilité pendant deux à cinq tours
+24,Clonage,1,10,0,100,Un quart des PV de l'attaquant est sacrifié pour créer un clone qui encaissera les dommages
+25,Combo-griffes,1,15,20,80,Lance deux à cinq coups de griffes sur l'adversaire
+26,Constriction,1,35,10,100,Une chance sur trois de réduire la vitesse de l'adversaire
+27,Copie,1,10,0,100,Copie une technique de l'adversaire pour le combat
+28,Coud'boule,1,15,70,100,Une chance sur trois d'apeurer l'adversaire
+29,Coud'krâne,1,15,100,100,Frappe l'ennmi avec l'os dur du crâne
+30,Coupe,1,30,50,95,Coupe les buissons en dehors des combats
+31,Coupe-vent,1,10,80,75,Une attaque en deux tours
+32,Croc de mort,1,15,80,70,Une chance sur dix d'apeurer l'adversaire
+33,Croc fatal,1,10,-2,90,Les PV de l'adversaire touché sont divisés par deux
+34,Croissance,1,40,0,100,Augmente le spécial
+35,Cru-aile,10,35,35,100,Frappe l'ennemi avec ses ailes
+36,Cyclone,1,20,0,85,Peut éjecter l'adversaire du combat
+37,Damoclès,1,15,15,100,Un quart des dégâts est subi par l'attaquant
+38,Danse-Flamme,2,15,15,70,Dure deux à cinq tours
+39,Danse-Fleur,5,20,70,100,Projette des pétales de fleurs sur l'ennemi pendant deux à trois tours. S'ensuit une confusion du lanceur
+40,Danse-Lames,1,30,0,100,Augmente l'attaque
+41,Dard-Nuée,12,20,14,85,Projette deux à cinq dards empoisonnés sur l'ennemi
+42,Dard-Venin,8,35,15,100,Une chance sur cinq d'empoisonner l'adversaire
+43,Déflagration,2,5,120,85,Une chance sur trois de brûler l'adversaire
+44,Destruction,1,5,260,100,"L'attaquant explose, blesse l'adversaire et tombe KO
+Sans effet sur les Pokémon SPECTRE"
+45,Détitrus,8,20,65,100,Une chance sur deux d'empoisonner l'adversaire
+46,Dévorêve,11,15,100,100,Vole les PV de l'adversaire endormi
+47,Double-Dard,12,20,25,100,"Touche deux fois l'adversaire
+Peut éventuellement empoisonner l'adversaire"
+48,Double-Pied,7,30,30,100,Touche deux fois l'adversaire
+49,Draco-Rage,15,10,-3,100,Inflige des dégâts sans tenir compte du type du Pokémon adverse
+50,Eboulement,13,10,80,90,Fait tomber des rochers sur l'ennemi
+51,Eclair,4,30,40,100,Une chance sur dix de paralyser l'adversaire
+52,E-Coque,1,10,0,100,Restaure les PV de moitié
+53,Ecrasement,1,20,65,100,Une chance sur trois d'apeurer l'adversaire
+54,Ecras'face,1,35,40,100,Frappe l'ennemi d'une baffe
+55,Ecume,3,30,20,100,Une chance sur trois de réduire la vitesse de l'adversaire
+56,Empal'korne,1,5,-1,30,Peut mettre KO l'adversaire en un seul coup
+57,Entrave,1,20,0,55,Annule les attaques de l'adversaire pendant un certain temps
+58,Etreinte,1,20,15,75,Immobilise l'adversaire pendant quelques tours
+59,Explosion,1,5,340,100,"L'attaquant explose, blesse l'adversaire et tombe KO"
+60,Fatale-Foudre,4,10,120,70,Une chance sur dix de paralyser l'adversaire
+61,Flammèches,2,25,40,100,Une chance sur dix de brûler l'adversaire
+62,Flash,1,20,0,70,"Réduit la précision de l'adversaire
+Illumine les cavernes sombres"
+63,Force,1,15,80,100,Déplace les rochers
+64,Force Poigne,1,30,55,100,Empoigne l'ennemi avec de puissantes pinces
+65,Fouet Lianes,5,10,35,100,Fouette l'ennemi avec de fines lianes
+66,Frappe Atlas,7,20,-5,100,L'adversaire est projetté à terre et frappé par la force de la gravité
+67,Frénésie,1,20,20,100,"Plus l'adversaire est touché, plus l'attaque du lanceur augmente"
+68,Furie,1,20,15,85,Touche plusieurs fois l'adversaire
+69,Gaz Toxik,8,40,0,55,Empoisonne l'adversaire
+70,Griffe,1,35,40,100,Griffe l'ennemi
+71,Grincement,1,40,0,85,Réduit la défense de l'adversaire
+72,Grobisou,1,10,0,75,Endort l'adversaire
+73,Gros'yeux,1,30,0,100,Réduit la défense de l'adversaire
+74,Guillotine,1,5,-1,30,Peut mettre KO l'adversaire en un seul coup
+75,Hâte,11,30,0,100,Augmente la vitesse
+76,Hurlement,1,20,0,100,Peut apeurer l'adversaire et le faire fuire (uniquement les Pokémon sauvages)
+77,Hydrocanon,3,5,120,80,Lance un puissant jet d'eau avec une forte pression sur l'adversaire
+78,Hypnose,11,20,0,60,Endort l'adversaire
+79,Intimidation,1,30,0,75,Empêche l'adversaire d'agir
+80,Jackpot,1,20,40,100,"Rapporte plus d'argent à la fin du combat, en fonction du niveau et du nombre d'attaques du lanceur"
+81,Jet de sable,1,15,0,100,Réduit la précision de l'adversaire
+82,Jet de pierres,13,15,50,75,Lance des pierres sur l'adversaire
+83,Koud'korne,1,25,65,100,Frappe l'ennemi avec sa corne
+84,Lance-Flamme,2,15,95,100,Une chance sur dix de brûler l'adversaire
+85,Lance-Soleil,5,10,120,100,"Nécessite deux tours avant d""être lancé sur l'adversaire"
+86,Laser-Glace,6,10,95,100,Une chance sur dix de geler l'adversaire
+87,Léchouille,14,30,20,100,Une chance sur trois de paralyser l'adversaire
+88,Ligotage,1,20,15,85,L'adversaire est immobilité pendant deux à cinq tours
+89,Liliput,1,20,0,100,"Réduit la taille du lanceur, qui devient difficile à toucher"
+90,Lutte,1,-,100,100,Le lanceur s'inflique un quart des dégâts
+91,Mania,1,20,90,100,L'attaque se déroule sur trois tours mais rend le lanceur confus
+92,Massd'os,9,20,65,85,Peut apeurer l'adversaire
+93,Mawashi Geri,7,15,60,80,Une chance sur trois d'apeurer l'adversaire
+94,Mega-Sangsue,5,10,40,100,Transforme la moitié des dégâts infligés par le lanceur en PV qu'il récupère durant le combat
+95,Météores,1,20,60,100,Ne rate jamais l'adversaire
+96,Métronome,1,10,-6,100,Le lanceur lance une attaque au hasard
+97,Mimique,10,20,-6,100,Riposte en copiant la dernière attaque de l'adversaire
+98,Mimi-Queue,1,30,0,100,Réduit la défense de l'adversaire
+99,Morphing,1,10,0,100,Le lanceur se transforme en copie de la cible et dispose de ses attaques à raison de 5 PP par attaque
+100,Morsure,1,25,60,100,Peut apeurer l'adversaire
+101,Mur Lumière,11,30,0,100,Réduit de moitié les dégâts causés par une attaque spéciale
+102,Onde Boréale,6,20,65,100,Une chance sur trois de réduire l'attaque de l'adversaire
+103,Onde Folie,14,10,0,100,Rend l'adversaire confus
+104,Osmerang,9,10,50,90,Inflige deux fois des dégâts en une attaque
+105,Paraspore,5,30,0,75,Paralyse l'adversaire
+106,Patience,1,10,-6,100,Le lanceur attend plusieurs tours et lance une attaque faisant le double des dégâts encaissés
+107,Picanon,1,15,20,100,"L'attaque dure jusqu""à cinq tours"
+108,Picpic,10,35,35,100,Donne des coups de corne ou de bec à l'adversaire
+109,Pied Sauté,7,25,70,95,Le lanceur qui rate l'attaque s'inflige lui-même des dégâts
+110,Pied Voltige,7,20,85,90,Le lanceur qui rate l'attaque s'inflige lui-même un huitième des dégâts
+111,Pilonnage,1,20,15,85,Projette deux à cinq grosses boules sur l'ennemi
+112,Pince-Masse,3,10,90,85,Peut infliger un coup critique
+113,Piqué,10,5,140,90,Attaque se déroulant sur deux tours
+114,Pistolet à O,3,20,40,100,Lance un faible jet d'eau sur l'adversaire
+115,Plaquage,1,15,85,100,Une chance sur trois de paralyser l'adversaire
+116,Poing Comète,1,15,18,85,Touche l'adversaire de deux à cinq fois à la suite
+117,Poing de Feu,2,15,75,100,Une chance sur dix de brûler l'adversaire
+118,Poing Karaté,7,25,50,100,De bonnes chances de donner des coups critiques
+119,Poing Eclair,4,15,75,100,Une chance sur dix de paralyser l'adversaire
+120,Poing Glace,6,15,75,100,Une chance sur dix de geler l'adversaire
+121,Poudre Dodo,5,15,0,75,Endort l'adversaire pour plusieurs tours
+122,Poudre Toxik,8,35,0,75,Empoisonne l'adversaire
+123,Protection,11,20,0,100,Réduit des dégâts infligés par une attaque physique de moitié
+124,Psyko,11,10,90,100,Une chance sur trois de diminuer le spécial de l'adversaire
+125,Puissance,1,30,0,100,Augmente les chances de faire un coup critique
+126,Purédpois,8,20,20,70,Une chance sur deux d'empoisonner l'adversaire
+127,Rafale Psy,11,20,65,100,Une chance sur dix de rendre confus l'adversaire
+128,Reflet,1,15,0,100,Augmente l'esquive du lanceur
+129,Repli,3,40,0,100,Augmente la défense
+130,Repos,11,10,0,100,Le lanceur s'endort et soigne tous ses PV et changements de statut
+131,Riposte,7,20,-6,100,Riposte infligeant le double des dégâts provoqués par une attaque physique
+132,Rugissement,1,10,0,100,Réduit l'attaque de l'adversaire
+133,Sacrifice,7,25,80,80,Le lanceur subi un quart des dégâts infligés à l'adversaire
+134,Sécrétion,12,40,0,95,Réduit la vitesse de l'adversaire
+135,Séisme,9,10,100,100,Inefficace contre les Pokémon de type VOL
+136,Soin,1,10,0,100,Soigne de moitié les PV du lanceur
+137,Sonicboom,1,20,-4,100,Inflige des dégâts sans prendre en compte le type de l'adversaire
+138,Souplesse,1,20,80,75,"Fouette l'ennemi avec sa queue, une liane, etc."
+139,Spore,5,15,0,100,Endort l'adversaire
+140,Surf,3,15,95,100,Permet de se déplacer sur l'eau en utilisant un Pokémon de type EAU
+141,Télékinésie,11,15,0,75,Réduit la précision de l'adversaire
+142,Téléport,11,20,0,100,"Permet de s""échapper d'un combat face à un Pokémon sauvage
+S'utilise aussi sur la Carte pour rejoindre une ville déjà visitée"
+143,Ténèbres,14,15,-5,100,Inflige des dégâts sans prendre en compte le type de l'adversaire
+144,Tonnerre,4,15,95,100,Une chance sur dix de paralyser l'adversaire. Sans effet sur les pokémons normaux
+145,Torgnoles,1,10,15,85,Touche l'adversaire de deux à cinq fois à la suite
+146,Tornade,10,35,40,100,Le lanceur agite ses ailes pour créer une bourrasque infligeant des dégâts
+147,Toxik,8,10,0,85,"Empoisonne l'adversaire
+les dégâts augmentent durant le combat"
+148,Tranche,1,20,70,100,Peut infliger un coup critique
+149,Tranch'herbe,5,25,55,95,Peut infliger un coup critique
+150,Trempette,3,40,0,100,Ne sert strictement à rien car sans effet sur l'adversaire
+151,Triplattaque,1,10,80,100,"Une attaque combinant les éléments de glace, de feu et d'électricité"
+152,Tunnel,9,10,100,100,"Le lanceur s'enterre au premier tour et attaque au second tour
+Permet de s""échapper d'une grotte"
+153,Ultimapoing,1,20,80,85,Un coup de poing d'une puissance incroyable
+154,Ultimawashi,1,5,120,75,Un coup de pied super puissant et intense
+155,Ultralaser,1,5,120,90,Le lanceur se repose un tour après avoir lancé l'attaque
+156,Ultrason,1,20,0,55,Rend confus l'adversaire
+157,Uppercut,1,10,70,100,Un enchaînement de coups de poings cadencés frappe l'ennemi. Peut rendre confus
+158,Vague Psy,11,15,-6,80,Une attaque aux dégâts variables
+159,Vampigraine,5,10,0,90,Draine les points de vie de l'adversaire
+160,Vampirisme,12,15,20,100,Draine les points de vie de l'adversaire
+161,Vive Attaque,1,30,40,100,Frappe en premier
+162,Vol,10,15,70,95,"L'attaquant s'envole au premier tour et attaque au second
+Permet de se déplacer sur la Carte pour rejoindre une ville déjà visitée"
+163,Vol-vie,5,20,20,100,Draine les points de vie de l'adversaire
+164,Yoga,11,40,0,100,Augmente l'attaque
